@@ -1,6 +1,8 @@
-name: 👀 Typo / Grammar fix
-description: You can send a PR! Thank you!
-labels: []
+name: Typo / Grammar fix
+description: If you've found a typo or grammar issue, use this.
+labels: ["bug", "docs", "triage"]
+assignees:
+  - nostromos
 body:
   - type: markdown
     attributes:
@@ -9,6 +11,8 @@ body:
 
         If the typo / grammar issue is trivial and straightforward, you can help by **directly sending a quick pull request**!
         If you spot multiple of them, we suggest combining them into a single PR. Thanks!
+
+        If you're too lazy to do that, just submit this.
   - type: textarea
     id: context
     attributes:
