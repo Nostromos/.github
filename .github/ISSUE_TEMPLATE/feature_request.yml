@@ -1,6 +1,8 @@
 name: Feature Request
 description: Propose a new feature
-labels: [enhancement]
+labels: ["enhancement"]
+assignees:
+  - nostromos
 body:
   - type: markdown
     attributes:

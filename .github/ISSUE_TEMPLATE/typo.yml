@@ -1,6 +1,6 @@
 name: Typo / Grammar fix
 description: If you've found a typo or grammar issue, use this.
-labels: ["bug", "docs", "triage"]
+labels: ["bug", "docs"]
 assignees:
   - nostromos
 body:
