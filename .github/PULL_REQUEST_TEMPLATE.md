@@ -1,16 +1,3 @@
-<!-- DO NOT IGNORE THE TEMPLATE!
-
-Thank you for contributing!
-
-Before submitting the PR, please make sure you do the following:
-
-- Read the [Contributing Guide](https://github.com/nostromos/contribute).
-- Check that there isn't already a PR that solves the problem the same way to avoid creating a duplicate.
-- Provide a description in this PR that addresses **what** the PR is solving, or reference the issue that it solves (e.g. `fixes #123`).
-- Ideally, include relevant tests that fail without this PR but pass with it.
-
--->
-
 ### Description
 
 <!-- Please insert your description here and provide especially info about the "what" this PR is solving -->
@@ -18,6 +5,7 @@ Before submitting the PR, please make sure you do the following:
 
 ### Linked Issues
 
+<!-- If this PR fixes one or more issues OR makes those issues irrelevant, please list them here. -->
 
 ### Additional context
 
